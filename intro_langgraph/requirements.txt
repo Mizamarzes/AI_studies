@@ -6,8 +6,10 @@ langsmith
 langchain-community
 langchain-core
 langchain-openai
+langchain-google-genai
 notebook
 tavily-python
 wikipedia
 trustcall
 langgraph-cli[inmem]
+langgraph-api
