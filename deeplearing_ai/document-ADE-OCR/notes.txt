@@ -1,0 +1,1 @@
+PaddleOCR - i have to investigate about it, is a better alternative to implement in ocr systems or analysis document systems
