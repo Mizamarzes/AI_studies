@@ -11,3 +11,5 @@ matplotlib
 opencv-python
 paddlepaddle
 paddleocr
+transformers
+torch
