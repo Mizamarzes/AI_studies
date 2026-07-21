@@ -13,3 +13,5 @@ paddlepaddle
 paddleocr
 transformers
 torch
+pymupdf
+landingai-ade
